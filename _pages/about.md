@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, [School of Artificial Intelligence](https://scai.iitd.ac.in/), [IIT Delhi](https://home.iitd.ac.in/)
+subtitle: Assistant Professor, <a href='https://scai.iitd.ac.in/'>School of Artificial Intelligence</a>, <a href='[https://scai.iitd.ac.in/](https://home.iitd.ac.in/)'>IIT Delhi</a>
 
 profile:
   align: right
