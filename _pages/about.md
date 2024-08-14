@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor, [School of Artificial Intelligence](https://scai.iitd.ac.in/), [IIT Delhi](https://home.iitd.ac.in/)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>513-D, Building 99-C</p>
+    <p>Indian Institute of Technology, Delhi</p>
+    <p>Hauz Khas, New Delhi</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
